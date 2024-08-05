@@ -1,0 +1,6 @@
+﻿A construção começou em 11:34...
+1>------ Compilação iniciada: Projeto: Aula 1 - Variáveis em C#, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>Aula 1 - Variáveis em C# -> \\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 11:34 e levou 08,912 segundos ==========

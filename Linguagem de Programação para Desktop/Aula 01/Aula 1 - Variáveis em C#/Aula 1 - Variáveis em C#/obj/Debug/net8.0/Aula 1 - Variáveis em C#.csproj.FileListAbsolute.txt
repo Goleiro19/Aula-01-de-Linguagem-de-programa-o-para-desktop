@@ -1,0 +1,14 @@
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.exe
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.deps.json
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.runtimeconfig.json
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\bin\Debug\net8.0\Aula 1 - Variáveis em C#.pdb
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.AssemblyInfoInputs.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.AssemblyInfo.cs
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.csproj.CoreCompileInputs.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\refint\Aula 1 - Variáveis em C#.dll
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.pdb
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\Aula 1 - Variáveis em C#.genruntimeconfig.cache
+\\INFO\Informática\INF 07\Pedro Gustavo\Linguagem de Programação para Desktop\Aula 01\Aula 1 - Variáveis em C#\Aula 1 - Variáveis em C#\obj\Debug\net8.0\ref\Aula 1 - Variáveis em C#.dll
